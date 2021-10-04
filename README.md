@@ -1,6 +1,6 @@
 # Project about an Education Website
 
-## Live Website Link: [LEARNING HUB]().
+Project Live Link:  [LEARNING HUB](https://learning-hub-fayjul.netlify.app/).
 
 ## Described the project below with some bullet points
 
