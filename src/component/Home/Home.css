@@ -1,0 +1,39 @@
+.home{
+    min-height: 100vh;
+}
+
+.primary-color{
+    color: #0071DC;
+}
+
+.banner-text{
+    font-size: 70px !important;
+}
+
+.header-details h6 {
+    color: #FD511A;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+.header-details h1 {
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 70px;
+    color: #000000;
+    margin-bottom: 19px;
+}
+.header-details h1 span {
+    color: #0071DC;
+}
+.header-details p {
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+    margin-bottom: 15px;
+}
+
+.banner-img{
+    height: 480px !important;
+}

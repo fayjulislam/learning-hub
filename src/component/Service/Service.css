@@ -1,0 +1,11 @@
+.course-img{
+    border-radius: 20px !important;
+}
+
+.text-color-primary{
+    color: #0071DC;
+}
+
+.card-footer-area{
+    align-items: flex-end;
+}
