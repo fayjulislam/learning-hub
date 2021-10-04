@@ -1,6 +1,6 @@
 # Project about an Education Website
 
-## Describe the project below with some bullet points
+## Described the project below with some bullet points
 
 * The website is about Education e-commerce. 
 * In the header page I created a banner and put some services in the bottom of the banner.

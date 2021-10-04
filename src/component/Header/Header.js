@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBriefcase, faFileExcel, faRadiationAlt, } from '@fortawesome/free-solid-svg-icons';
+import {faRadiationAlt, } from '@fortawesome/free-solid-svg-icons';
 
 const Header = () => {
 
