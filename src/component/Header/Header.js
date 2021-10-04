@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {faRadiationAlt, } from '@fortawesome/free-solid-svg-icons';
+import { faRadiationAlt, } from '@fortawesome/free-solid-svg-icons';
 
 const Header = () => {
 
@@ -14,6 +14,8 @@ const Header = () => {
     };
 
     return (
+        // Navbar Area 
+
         <Navbar className="fixed-top" bg="light" expand="lg">
             <Container fluid>
                 <Navbar.Brand to="#"><h5 style={{ fontWeight: 'bold' }}> {iconRadiantAlt} LEARNING HUB</h5></Navbar.Brand>

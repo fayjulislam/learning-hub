@@ -7,6 +7,9 @@ import Service from '../Service/Service';
 const Home = (props) => {
     const { services } = props;
     return (
+
+        // Header Banner Area 
+        
         <section className="header-section">
             <div className="container mt-5 home">
                 <div className="row">

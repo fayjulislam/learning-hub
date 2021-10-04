@@ -11,6 +11,8 @@ const Service = (props) => {
 
     const { course_price, course_name, course_description, course_type, course_category, course_lesson, course_img } = props.service;
     return (
+
+        // Display Service Data 
         <div>
             <Card className="shadow">
                 <Card.Img variant="top" /> <img className="p-3 course-img" src={course_img} alt="" />

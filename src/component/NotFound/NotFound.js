@@ -4,6 +4,8 @@ import './NotFound.css';
 
 const NotFound = () => {
     return (
+        // Error page Area 
+
         <div className="not-found">
             <div className="container">
                 <div className="text-center text-danger mt-5 p-5">

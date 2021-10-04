@@ -4,6 +4,7 @@ import './About.css';
 
 const About = () => {
     return (
+        // About page are
         <div className="about mt-5 pt-5">
             <div className="display-3 text-center">
                 <h1>Who We Are?</h1>
@@ -16,6 +17,9 @@ const About = () => {
                     <h1 className="display-4"><span className="text-danger">Top & Famous</span> Instructor In <br />Your City</h1>
                 </div>
             </div>
+
+
+            {/* Display Instructor Informations */}
 
             <div className="container mb-5 mt-5">
                 <Row xs={1} md={4} className="g-4">
